@@ -1,0 +1,8 @@
+{
+  "api_base_url": "http://app.titozz.in/",
+  "firstColor": "#7b50dc",
+  "secondColor": "#597ae2",
+  "appIdOneSignal": "c2eb3e1f-f58f-4d34-8bc6-b2f673f42f56",
+  "defaultLanguage": "en",
+  "deeplink": "app.titozz.scheme"
+}
